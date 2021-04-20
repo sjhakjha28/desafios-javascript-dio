@@ -1,5 +1,5 @@
 # Desafios Javascript :computer:
-Desafios propostos no bootcamp da Digital Innovation One utilizando:
+Desafios propostos no bootcamp da Digital Innovation One, resolvidos utilizando:
 
 :heavy_check_mark: Javascript
 
