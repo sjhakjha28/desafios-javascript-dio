@@ -25,7 +25,7 @@ Desafios propostos no bootcamp da Digital Innovation One, resolvidos utilizando:
 [05 - Consumo Medio de Automovel](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/02-Fundamentos-aritmeticos-em-javascript/5-consumo-medio-do-automovel.js "05 - Consumo Medio de Automovel") :red_car:
 
 
-## Fundamentos Aritmeticos em Javascript
+## Ordenação e Filtros em Javascript
 
 [01 - Ordenando Numeros Pares e Ímpares](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/03-Ordenacao-e-filtros-em-javascript/1-ordenando-numeros-pares-e-impares.js "01 - Ordenando Numeros Pares e Ímpares") :1234:
 
