@@ -23,3 +23,16 @@ Desafios propostos no bootcamp da Digital Innovation One, resolvidos utilizando:
 [04 - Contagem de Cedulas](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/02-Fundamentos-aritmeticos-em-javascript/4-contagem-de-cedulas.js "04 - Contagem de Cedulas") :moneybag:
 
 [05 - Consumo Medio de Automovel](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/02-Fundamentos-aritmeticos-em-javascript/5-consumo-medio-do-automovel.js "05 - Consumo Medio de Automovel") :red_car:
+
+
+## Fundamentos Aritmeticos em Javascript
+
+[01 - Ordenando Numeros Pares e Ímpares](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/03-Ordenacao-e-filtros-em-javascript/1-ordenando-numeros-pares-e-impares.js "01 - Ordenando Numeros Pares e Ímpares") :1234:
+
+[02 - Compras no Supermercado](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/03-Ordenacao-e-filtros-em-javascript/2-compras-no-supermercado.js "02 - Compras no Supermercado") :memo:
+
+[03 - Uniformes de Final de Ano](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/03-Ordenacao-e-filtros-em-javascript/3-uniformes-de-final-de-ano.js "03 - Uniformes de Final de Ano") :shirt:
+
+[04 - Fila do Banco](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/03-Ordenacao-e-filtros-em-javascript/4-fila-do-banco.js "04 - Fila do Banco") :bank:
+
+[05 - Gincana no Acampamento](https://github.com/sjhakjha28/desafios-javascript-dio/blob/main/03-Ordenacao-e-filtros-em-javascript/5-gincana-no-acampamento.js "05 - Gincana no Acampamento") :tent:
